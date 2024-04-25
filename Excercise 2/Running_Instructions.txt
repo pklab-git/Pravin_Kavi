@@ -1,0 +1,6 @@
+
+Execute the script by typing python umber_calculations.py 1 2 3 4 5 6,      #any six numbers of your choice
+
+For eg.
+"/c/python312/python" number_calculations.py 1 2 3 4 5 6
+
