@@ -1,5 +1,5 @@
-Make sure required files are available as per folder strecture
----------------------------------------------------------------
+Make sure required files are available as per folder strecture, this setup is available in this Repository
+------------------------------------------------------------------------------------------------------------
 
   src/objects/Event.object 
   src/objects/Trading_Event__c.object 
@@ -8,7 +8,7 @@ Make sure required files are available as per folder strecture
   src/reports/CACI_Imports/All_Closed.report 
 
 
-Make sure file_diff.txt is present with below data
+Make sure file_diff.txt is present with below data , this setup is available in this Repository
 ---------------------------------------------------------------
     M     src/objects/Event.object 
     A     src/objects/Trading_Event__c.object 
@@ -17,6 +17,6 @@ Make sure file_diff.txt is present with below data
     D     src/reports/CACI_Imports/All_Closed.report 
 
 
-Run your program
+After cloning it to your machine, Run your program
 -------------------------------------------------------------------
-"/c/python312/python" scanfile.py
+python scanfile.py
